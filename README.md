@@ -24,7 +24,7 @@ This project showcases the website of Horiseon Marketing Agency, which offers se
 
 ## Usage
 
-To view the website, open the `index.html`  file in a web browser.
+To view the website, click [Herison Marketing Agency](https://heisen101.github.io/horiseon-marketing-agency-website/#social-media-marketing)
 
 ## Contributing
 
