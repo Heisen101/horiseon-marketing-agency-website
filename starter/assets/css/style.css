@@ -47,11 +47,11 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
-}
+} /* Set the color and remove the underline for all anchor elements */
 
 p {
     font-size: 16px;
-}
+} /* Set the font size for all paragraphs */
 
 .hero {
     height: 800px;
@@ -60,17 +60,17 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
+} /* Set the height, width, margin, and background properties for the hero section */
 
 .float-left {
     float: left;
     margin-right: 25px;
-}
+}/* Float the element to the left */
 
 .float-right {
     float: right;
     margin-left: 25px;
-}
+} /* Float the element to the right */
 
 .content {
     width: 75%;
