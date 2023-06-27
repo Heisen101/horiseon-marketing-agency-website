@@ -33,10 +33,11 @@ Contributions to this project are welcome. If you encounter any issues or have s
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 ## Code Source
 
 This code was provided by edX Boot Camps LLC. Code was just modified/replaced some parts of it, by Vasile Orbu.
----
+
 
 Made with ❤️️ by Vasile Orbu and @edxSchoolTeam
 
