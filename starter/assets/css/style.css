@@ -2,27 +2,27 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
+}     /* Reseted the default settings applied by browser on all elements on the page */
 
 body {
     background-color: #d9dcd6;
-}
+}   /* Set the background-color the body section */
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-}
+}   /* Applied CSS rules only inside header Tags */
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
+}   /* Applied the rules inside the header class, only on mentioned element after Header class*/
 
 .header h1 .seo {
     color: #d9dcd6;
-}
+}  /* Applied the rules inside the header class, only on mentioned element after Header class */
 
 .header nav { 
     /* replaced div with nav to addapt under html code */
@@ -76,7 +76,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
+} /* Set the width, display, and margin properties for the content section */
 
 .benefits {
     margin-right: 20px;
@@ -87,7 +87,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
+}  /* Set the margin, padding, clear, float, width, height, font-family, and background-color properties for the benefits section */
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -123,19 +123,19 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* Set the margin-bottom and color properties for the benefit-lead section */
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* Set the margin-bottom and color properties for the benefit-brand section */
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* Set the margin-bottom and color properties for the benefit-cost section */
 
 .search-engine-optimization {
     margin-bottom: 20px;
