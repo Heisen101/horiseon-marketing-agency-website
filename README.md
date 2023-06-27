@@ -1,2 +1,40 @@
-# horiseon-marketing-agency-website
-This repository contains the code for the website of Horiseon Marketing agency. The website showcases their services including Search Engine Optimization, Online Reputation Management, and Social Media Marketing. The code follows best practices for SEO and semantic HTML structure, providing improved visibility and reach to potential customers.
+# Horiseon Marketing Agency
+
+Horiseon Marketing agency specializes in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Improve your business visibility and reach the right customers.
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
+This project showcases the website of Horiseon Marketing Agency, which offers services in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. The website highlights the benefits of these services and aims to boost business visibility and attract the right customers.
+
+## Features
+
+- Search Engine Optimization: Increase visibility and find the right customers for your business.
+- Online Reputation Management: Take control of your online reputation and manage what potential customers see.
+- Social Media Marketing: Utilize social media platforms to find the right markets and increase lead generation.
+- Lead Generation: Inbound strategies bring customers directly to your website.
+- Brand Awareness: Improve search ranking and visibility to increase brand awareness.
+- Cost Management: As your search ranking increases, advertising costs decrease.
+
+## Usage
+
+To view the website, open the `index.html` file in a web browser.
+
+## Contributing
+
+Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️️ by Vasile Orbu and @edxSchoolTeam
+
