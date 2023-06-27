@@ -24,7 +24,7 @@ This project showcases the website of Horiseon Marketing Agency, which offers se
 
 ## Usage
 
-To view the website, click [Herison Marketing Agency](https://heisen101.github.io/horiseon-marketing-agency-website/#social-media-marketing)
+To view the website, click [Heriseon Marketing Agency](https://heisen101.github.io/horiseon-marketing-agency-website/#social-media-marketing)
 
 ## Contributing
 
